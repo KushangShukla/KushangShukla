@@ -65,7 +65,7 @@ I am a passionate developer exploring the intersection of **Artificial Intellige
 🔹 **API integration with LinkedIn & Coursera/Udemy**  
 🔹 **Full-Stack Development (Java + MySQL + HTML/CSS/JS)**  
 
-<!--📍 **[Post Office Route Optimization]()**  
+📍 **[Post Office Route Optimization](https://github.com/KushangShukla/PostOfficeRouteOptimization)**  
 🔹 **Shortest Path Optimization (Python + GIS Mapping)**  
 🔹 **Smart Traffic Management with IoT Sensors**  
 
