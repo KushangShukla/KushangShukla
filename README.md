@@ -67,9 +67,20 @@ I am a passionate developer exploring the intersection of **Artificial Intellige
 
 📍 **[Post Office Route Optimization](https://github.com/KushangShukla/PostOfficeRouteOptimization)**  
 🔹 **Shortest Path Optimization (Python + GIS Mapping)**  
-🔹 **Smart Traffic Management with IoT Sensors**  
+🔹 **Smart Traffic Management with IoT Sensors** 
 
-🎥 **[Movie Recommendation System](https://github.com/KushangShukla/MovieRecommendationSystem)** 
+🎥 **[Movie Recommendation System](https://github.com/KushangShukla/MovieRecommendationSystem)**  
+🔹 **Collaborative & Content-based filtering**  
+🔹 **Flask Web App for Recommendations**  
+🔹 **Tech Stack:** Python, Pandas, Scikit-learn, Flask  
+
+🧠 **[Parkinson’s Disease Detection](https://github.com/KushangShukla/DetectionofParkinsonDisease)**  
+🔹 **ML-based Health Diagnosis**  
+🔹 **SVM Classifier with Medical Dataset**  
+🔹 **Tech Stack:** Python, Scikit-learn, Jupyter Notebook  
+ 
+
+<!--🎥 **[Movie Recommendation System](https://github.com/KushangShukla/MovieRecommendationSystem)** 
 🔹 **Collaborative & Content-based filtering**
 🔹 **Flask Web App for Recommendations**
 🔹 **Tech Stack: Python, Pandas, Scikit-learn, Flask**
