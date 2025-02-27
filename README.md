@@ -69,9 +69,19 @@ I am a passionate developer exploring the intersection of **Artificial Intellige
 🔹 **Shortest Path Optimization (Python + GIS Mapping)**  
 🔹 **Smart Traffic Management with IoT Sensors**  
 
-📊 **[Data Science & AI Models]()**  
+🎥 **[Movie Recommendation System](https://github.com/KushangShukla/MovieRecommendationSystem)** 
+🔹 **Collaborative & Content-based filtering**
+🔹 **Flask Web App for Recommendations**
+🔹 **Tech Stack: Python, Pandas, Scikit-learn, Flask**
+
+🧠 **[Parkinson’s Disease Detection](https://github.com/KushangShukla/DetectionofParkinsonDisease)**
+🔹 **ML-based Health Diagnosis**
+🔹 **SVM Classifier with Medical Dataset**
+🔹 **Tech Stack: Python, Scikit-learn, Jupyter Notebook**
+
+<!--📊 **[Data Science & AI Models]()**  
 🔹 Various ML models and algorithms  
-🔹 Jupyter Notebook implementations  
+🔹 Jupyter Notebook implementations  -->
 
 <!--📡 **[IoT & Sensors for Smart Systems](https://github.com/YOUR_GITHUB_USERNAME/iot-projects)**  
 🔹 IoT-based solutions for automation  -->
