@@ -79,7 +79,7 @@ I am a passionate developer exploring the intersection of **Artificial Intellige
 ---
 
 ## 📊 Most Used Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&langs_count=10)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KushangShukla&layout=compact&theme=radical&langs_count=10)](https://github.com/KushangShukla)
 
 ---
 
