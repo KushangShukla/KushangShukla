@@ -60,7 +60,7 @@ I am a passionate developer exploring the intersection of **Artificial Intellige
 🔹 **GIS Mapping & Real-Time Sensor Integration**  
 🔹 **Dynamic Panel Rotation for Maximum Solar Output**  
 
-🎓 **[Intelligent Course & Career Pathway Advisor](https://github.com/prem412/FutureForge)**  
+🎓 **[Intelligent Course & Career Pathway Advisor](https://github.com/KushangShukla/FutureForge)**  
 🔹 **ML-based career recommendations**  
 🔹 **API integration with LinkedIn & Coursera/Udemy**  
 🔹 **Full-Stack Development (Java + MySQL + HTML/CSS/JS)**  
