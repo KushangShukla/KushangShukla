@@ -41,8 +41,9 @@ I am a passionate developer exploring the intersection of **Artificial Intellige
 ![JSF](https://img.shields.io/badge/JSF-008CBA?style=flat)  
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)  
 ![WebRTC](https://img.shields.io/badge/WebRTC-0088CC?style=flat&logo=webrtc&logoColor=white)  
-![GIS Mapping](https://img.shields.io/badge/GIS-1E90FF?style=flat)  
-
+![GIS Mapping](https://img.shields.io/badge/GIS-1E90FF?style=flat)
+![MATLAB](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblogs.mathworks.com%2Fcommunity%2F2019%2F11%2F27%2Fa-github-badge-for-the-file-exchange%2F&psig=AOvVaw06EoTBy6hpvfV7yLePHrRj&ust=1740894439425000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCKn6eX6IsDFQAAAAAdAAAAABAE)
+ 
 ---
 
 ## 🔗 Connect With Me  
