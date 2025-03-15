@@ -78,6 +78,13 @@ I am a passionate developer exploring the intersection of **Artificial Intellige
 🔹 **ML-based Health Diagnosis**  
 🔹 **SVM Classifier with Medical Dataset**  
 🔹 **Tech Stack:** Python, Scikit-learn, Jupyter Notebook  
+
+🗓️ **[AI-Based Automated Exam Schedule Generation System](https://github.com/KushangShukla/AI-Based-Automated-Exam-Schedule-Generation-System)**  
+🔹 **AI-based automated exam scheduling**  
+🔹 **MySQL integration for real-time data handling**  
+🔹 **GUI for data input and schedule generation**  
+🔹 **Tech Stack:** Python, PyMySQL, Tkinter  
+
  
 
 <!--🎥 **[Movie Recommendation System](https://github.com/KushangShukla/MovieRecommendationSystem)** 
