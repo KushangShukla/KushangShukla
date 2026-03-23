@@ -105,7 +105,7 @@ Tech: Python, TensorFlow
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KushangShukla&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -113,4 +113,5 @@ Tech: Python, TensorFlow
 ## Contact
 
 Email: kushangashukla1@gmail.com  
-LinkedIn: (add your link)
+LinkedIn: https://www.linkedin.com/in/kushang-shukla-78570926b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BT1KucoqtQlmzqp5ZwekvMw%3D%3D
+Twitter/X: https://x.com/KushangShukla
