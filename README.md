@@ -25,7 +25,7 @@ AI Systems Engineer focused on building scalable, real-world intelligent systems
 
 ---
 
-## Project CHAITRA (Flagship)
+## Project CHAITRA 
 
 Building **Project CHAITRA** — an AI platform centered on LLM systems and a custom transformer-based small language model (SLM) developed from scratch.
 
@@ -34,7 +34,7 @@ Building **Project CHAITRA** — an AI platform centered on LLM systems and a cu
 - Integrating AI systems into scalable backend architectures  
 - Focusing on lightweight and optimized model design  
 
-Tech: Python, Java, Transformers, ML Systems
+Tech: Python, Transformers, ML Systems
 
 ---
 
@@ -44,14 +44,7 @@ AI Systems • Transformer Architectures • LLM Pipelines • Scalable Backend 
 
 ---
 
-## Selected Projects
-
-### AI-Based Automated Exam Scheduling System
-- Constraint-based scheduling with intelligent allocation  
-- MySQL-backed system for dynamic data handling  
-- GUI-driven interface for real-world usability  
-
-Tech: Python, PyMySQL, Optimization  
+## Projects
 
 ---
 
@@ -64,20 +57,12 @@ Tech: MATLAB, IoT, GIS
 
 ---
 
-### Med-Tech Patient Severity Prediction System
-- Machine learning model for patient risk assessment  
-- Designed data pipelines for healthcare datasets  
-- Explored deployment-oriented ML workflows  
-
-Tech: Python, TensorFlow  
-
----
 
 ## Tech Stack
 
 ### Core Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" />
 </p>
 
 ### AI / Machine Learning
@@ -92,12 +77,12 @@ Tech: Python, TensorFlow
 
 ### Data & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase," />
 </p>
 
 ### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 ---
