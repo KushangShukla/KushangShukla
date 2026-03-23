@@ -19,12 +19,12 @@ AI Systems Engineer focused on building scalable, real-world intelligent systems
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="assets/banner.png" />
 </p>
 
 ---
-
+-->
 ## Project CHAITRA 
 
 Building **Project CHAITRA** — an AI platform centered on LLM systems and a custom transformer-based small language model (SLM) developed from scratch.
